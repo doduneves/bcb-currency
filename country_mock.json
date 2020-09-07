@@ -1,0 +1,47 @@
+{
+    "AUD":{
+        "nomeFormatado": "Dólar australiano",
+        "paisOrigem": "Austrália"
+    },
+    "CAD":{
+        "nomeFormatado": "Dólar canadense",
+        "paisOrigem": "Canadá"
+    },
+    "CHF":{
+        "nomeFormatado": "Franco suíço",
+        "paisOrigem": "França"
+    },
+    "DKK":{
+        "nomeFormatado": "Coroa dinamarquesa",
+        "paisOrigem": "Dinamarca"
+    },
+    "EUR":{
+        "nomeFormatado": "Euro",
+        "paisOrigem": "União Européia"
+    },
+    "GBP":{
+        "nomeFormatado": "Libra Esterlina",
+        "paisOrigem": "Reino Unido"
+    },
+    "JPY":{
+        "nomeFormatado": "Iene",
+        "paisOrigem": "Japão"
+    },
+    "NOK":{
+        "nomeFormatado": "Coroa norueguesa",
+        "paisOrigem": "Noruega"
+    },
+    "SEK":{
+        "nomeFormatado": "Coroa sueca",
+        "paisOrigem": "Suécia"
+    },
+    "USD":{
+        "nomeFormatado": "Dólar",
+        "paisOrigem": "Estados Unidos"
+    },
+    "BRL":{
+        "nomeFormatado": "Reais",
+        "paisOrigem": "Brasil"
+
+    }
+}
